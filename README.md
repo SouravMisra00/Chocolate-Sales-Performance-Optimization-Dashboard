@@ -18,4 +18,6 @@ Power BI,
 DAX, 
 Data Modeling, 
 Visualizations
+![Chocolate Sales Dashboard](https://github.com/user-attachments/assets/b18b3e4c-d75a-4699-8873-2776b31ffa67)
+
 
